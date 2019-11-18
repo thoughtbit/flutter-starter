@@ -1,0 +1,5 @@
+{
+  "env": "dev",
+  "webUrl": "https://localhost:4000",
+  "apiUrl": "https://localhost:4000/api/v1"
+}
